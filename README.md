@@ -6,5 +6,5 @@
 ```python
 python3 -m pytest
 ```
-- aut_test папка с дз
+- auto_test папка с дз
   
